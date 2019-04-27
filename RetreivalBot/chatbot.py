@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # Checking for greetings
 GREETING_INPUTS = ("hello", "hi", "greetings", "sup", "what's up","hey",)
 GREETING_RESPONSES = ["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
-file = "H:/NLP/final_cleaned_data.json"
+file = "movie_mode_data.json"
 
 questions = []
 answers = []
